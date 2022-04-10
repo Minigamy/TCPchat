@@ -139,4 +139,5 @@ def receive():
         thread.start()
 
 
-receive()
+if __name__=='__main__':
+    receive()
