@@ -1,5 +1,0 @@
-setup.py
-chat.egg-info/PKG-INFO
-chat.egg-info/SOURCES.txt
-chat.egg-info/dependency_links.txt
-chat.egg-info/top_level.txt
