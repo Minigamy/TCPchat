@@ -3,8 +3,10 @@ from os.path import join, dirname
 
 setup(
     name='chat',
-    version='1.0',
+    version='0.0.1',
     packages=find_packages(),
     scripts=['chat/server', 'chat/client'],
+    instal_requires=['markdawn',],
+
 
 )
