@@ -1,0 +1,5 @@
+setup.py
+tcpchatroom.egg-info/PKG-INFO
+tcpchatroom.egg-info/SOURCES.txt
+tcpchatroom.egg-info/dependency_links.txt
+tcpchatroom.egg-info/top_level.txt
