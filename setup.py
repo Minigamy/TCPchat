@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='tcpchatroom',
+    name='chat',
     version='1.0',
     packages=find_packages(),
-    scripts=['tcpchatroom/server', 'tcpchatroom/client'],
+    scripts=['chat/server', 'chat/client'],
 
 )
