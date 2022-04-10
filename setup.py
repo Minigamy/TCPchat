@@ -6,7 +6,4 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     scripts=['chat/server', 'chat/client'],
-    instal_requires=['markdawn',],
-
-
 )
