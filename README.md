@@ -46,5 +46,5 @@
 * Находясь в папке с файлом `client.py` остается запустить клиента в отдельном терминате, но в том же виртуальном окружении, командой `python3 client.py`. Подключите таким образом необходимо количество клиентов и можно начинать общаться.
 
 
-![Скриншот](//github.com/Minigamy/TCPchat/tree/master/img/chat.jpeg)  
+![Скриншот](https://github.com/Minigamy/TCPchat/img/chat.jpeg)  
 <p align="center">Чат</p>  
