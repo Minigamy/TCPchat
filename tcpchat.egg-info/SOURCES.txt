@@ -1,7 +1,7 @@
 setup.py
-chat/__init__.py
-chat/client.py
-chat/server.py
+tcpchat/__init__.py
+tcpchat/client.py
+tcpchat/server.py
 tcpchat.egg-info/PKG-INFO
 tcpchat.egg-info/SOURCES.txt
 tcpchat.egg-info/dependency_links.txt
