@@ -76,8 +76,8 @@ def write():
             continue
         else:
             # Формируем сообщение типа 'message'.
-            # В заголовок записываем размер сообщения и кодирем.
-            # отправляем сообщение на сервер.
+            # В заголовок записываем размер сообщения и кодируем.
+            # Отправляем сообщение на сервер.
             message = json.dumps({'type': 'message', 'uuid': str(uuid.uuid4()), 'message': message}).encode('utf-8')
             message_header = f"{len(message):<{HEADER_LENGTH}}".encode('utf-8')
             client.send(message_header + message)
